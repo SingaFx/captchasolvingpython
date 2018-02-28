@@ -1,0 +1,4 @@
+1519670632240	geckodriver	INFO	Listening on 127.0.0.1:43921
+1519670633286	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lREiRbGuZ5zF
+1519670633287	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1519670633300	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45707
